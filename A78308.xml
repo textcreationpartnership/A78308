@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A glasse for the times by which according to the Scriptures, you may clearly behold the true ministers of Christ, how farre differing from false teachers. With a briefe collection of the errors of our times, and their authors names. Drawn from their own writings. Also proofes of Scripture by way of confutation of them, by sundry able ministers. / Collected by T.C. a friend to truth.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78308</idno>
+            <idno type="STC">Wing C132</idno>
+            <idno type="STC">Thomason E455_10</idno>
+            <idno type="STC">ESTC R205016</idno>
+            <idno type="EEBO-CITATION">99864462</idno>
+            <idno type="PROQUEST">99864462</idno>
+            <idno type="VID">162029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162029)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E455[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A glasse for the times by which according to the Scriptures, you may clearly behold the true ministers of Christ, how farre differing from false teachers. With a briefe collection of the errors of our times, and their authors names. Drawn from their own writings. Also proofes of Scripture by way of confutation of them, by sundry able ministers. / Collected by T.C. a friend to truth.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>[4], 8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis. = ill.</note>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162029:1" rendition="simple:additions"/>
+            <p>A Glaſſe for the Times</p>
+            <p>By Which According to the Scriptures, you may clearly behold the true Miniſters of Chriſt, how farre differing from falſe Teachers.</p>
+            <p>WITH A briefe Collection of the Errors of our Times, and their Authors Names. Drawn from their own writings.</p>
+            <p>ALSO Proofes of Scripture by way of Confu<g ref="char:EOLhyphen"/>tation of them, by ſundry able Miniſters.</p>
+            <p>
+               <hi>Collected by T. C. a Friend to Truth.</hi>
+            </p>
+            <p>LONDON, Printed by Robert Ibbitſon. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:162029:2"/>
+            <pb n="1" facs="tcp:162029:2"/>
+            <head>The Goſpell Miniſter gifted, and made an able overſeer, and ſent, <hi>Rom. 10.11. For,</hi>
+            </head>
+            <p>HIs great labour is compared to a Steward; <hi>As good Stewards, &amp;c.</hi> 1 Cor. 4.1. To a Shepheard, <hi>John</hi> 21.16. <hi>Peter feed my ſheep.</hi> To a Watchman, <hi>Ier.</hi> 6.17. <hi>They watch for your ſoules.</hi> To a Prophet, <hi>Matth.</hi> 10.41. <hi>He that receives a Prophet.</hi> To an Apoſtle, the 12.28. His abi<g ref="char:EOLhyphen"/>lities are anſwerable; To explaine the word. To convince the ſoule. To reach the affections. To build up, nouriſh and cheriſh Chriſts members by Application, Information, Exhortation, Re<g ref="char:EOLhyphen"/>proofe and comfort. Having the light of knowledge, heat of zeale, and influence of vertue in life and doctrine; being filled with zeale for Gods glory, and zealouſly compationate towards poore loſt ſoules.</p>
+            <list>
+               <head>The Word delivered by ſuch a Miniſter, is a ſovereigne ſalve for every ſore; <hi>Compared as followeth,</hi>
+               </head>
+               <item>To a Medicine for the wounded, <hi>Pſalme</hi> 119.10.</item>
+               <item>To a Lanthorne for the ignorant, <hi>Pſal.</hi> 119.5.</item>
+               <item>To a Guide for our feet in the way of peace, <hi>Luke</hi> 1.79.</item>
+               <item>To a Bit to curbe the unruly, <hi>Iames</hi> 1.26.</item>
+               <item>To a two-edged ſword for the Chriſtian ſouldier, <hi>Heb.</hi> 4.12.</item>
+               <item>To a Treaſure. 2 <hi>Cor.</hi> 4 7. <hi>Wee have this Treaſure in, &amp;c.</hi>
+               </item>
+               <item>To a Key or Inlet to glory; <hi>Matth.</hi> 16.19.</item>
+               <item>To Wine, to revive and cheare the heart, <hi>Matth.</hi> 19.17.</item>
+               <item>To water to waſh the defiled, <hi>Heb.</hi> 10.21. <hi>Revel.</hi> 22.17.</item>
+               <item>To Fire to warme the frozen hearted, <hi>Luke</hi> 24.32.12.35.</item>
+               <item>To Salt to ſeaſon the unſavoury, <hi>Matth.</hi> 5.15.</item>
+               <item>To Raine, <hi>Iſa.</hi> 55.10.11. <hi>As the raine upon the Earth, &amp;c.</hi>
+               </item>
+               <item>To Milke for babes, <hi>Luk</hi> 9.54.</item>
+               <item>To Hony, <hi>Pſal.</hi> 19.10. <hi>Doubtleſſe no hony in my mouth, &amp;c.</hi>
+               </item>
+               <item>To everlaſting Food, <hi>John</hi> 6.27 <hi>Its meat that periſheth not.</hi>
+               </item>
+            </list>
+            <q>
+               <l>Labour not for the meat that periſheth, but for that which endureth to ever<g ref="char:EOLhyphen"/>laſting life.</l>
+               <l>The entrance of thy word giveth light,</l>
+               <bibl>
+                  <hi>Pſal. 119.130.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="part">
+            <pb n="2" facs="tcp:162029:3"/>
+            <head>Falſe Prophets not gifted, unable, and not ſent; For their deceitfull and ſoule-murthering opinions may be compared as <hi>followeth,</hi>
+            </head>
+            <p>TO ſeducers, 2 <hi>Tim.</hi> 3.13. To corrupters. To deceitfull workers, 2 <hi>Cor.</hi> 11.13. To raylers and wreſters of Scripture, 2 <hi>Pet.</hi> 3.16. To hypocrites. To lyers, <hi>Revel.</hi> 2.2. To Antichriſt, 1 <hi>Iohn</hi> 2.18. To belly-ſervers, <hi>Rom.</hi> 16.18. To pernicious falſe teachers, 2 <hi>Pet.</hi> 2.2. In the 2 <hi>Tim.</hi> 3.8. They are called men of corrupt mindes, reprobate concerning the Faith. To cunning crafty creepers into houſes, 2 <hi>Tim.</hi> 3.6, 7, 8, 9.</p>
+            <p>
+               <label>The Doctrine delivered by ſuch, is compared,</label>
+            </p>
+            <p>To the doctrine of devills, 1 <hi>Tim.</hi> 4.1, 2. To damnable hereſies, 2 <hi>Pet.</hi> 2.1. To fained ſpeeches. To a pernicious evill. To perverſe diſputings, 1 <hi>Tim.</hi> 6.3, 4, 5. To fables, 2 <hi>Tim.</hi> 4.3, 4. To windy do<g ref="char:EOLhyphen"/>ctrine, <hi>Eph</hi> 4.14. Thus teaching things they ought not, ſpeaking lyes in hypocriſie, 1 <hi>Tim.</hi> 4.2.</p>
+            <list>
+               <head>From which corrupt fountaine proceeds theſe pernicious errours mentioned; in the Teſtimony of the <hi>London</hi> Miniſters, <hi>viz.</hi>
+               </head>
+               <item>Againſt the Divine Authority of the holy Scriptures.</item>
+               <item>Againſt the Nature and Eſſence of God.</item>
+               <item>Againſt the Trinity of perſons in unity of Eſſence.</item>
+               <item>Againſt the Deity of the Son of God.</item>
+               <item>Againſt the Deity, and the divine worſhip of the Holy Ghoſt.</item>
+               <item>Againſt Gods eternall decree of Election and Reprobation.</item>
+               <item>Concerning originall ſin, and Chriſt our Mediator.</item>
+               <item>Touching univerſall or generall Redemption.</item>
+               <item>About naturall mans freewill, and power to good ſupernaturall.</item>
+               <item>Againſt the true nature and ground of Faith and Juſtification.</item>
+               <item>Touching thoſe that are in Chriſt, in reference to the morall Law to ſin and perfection.</item>
+               <item>Errours againſt the Ordinances of Chriſt in generall.</item>
+               <item>Againſt the Lords day, Sabbath, againſt Baptiſme.</item>
+               <item>Againſt lawfull oaths, touching Marriage and divorce</item>
+               <item>Againſt the ſouls Immortality, &amp; the being of Heaven or hel now.</item>
+               <item>About a generall Toleration, promoting all kinde of errour and hereſies under the pretence of Liberty of Conſcience.</item>
+            </list>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:162029:3"/>
+            <head>A collection of the Errours of our Times.</head>
+            <head type="sub">Together with the Authors names, drawne from their owne writings.</head>
+            <head type="sub">To which is added proofes of Scripture by way of Confutation of them, by ſundry able Miniſters.</head>
+            <p>THe errour of <hi>Laurence Clarkſon</hi> cited in <hi>Londons</hi> Teſtimony. <hi>pag.</hi> 5. That the Scriptures in the true Manuſcript is but humane, and ſo not able to diſcover a Divine God. Confutation, <hi>Exod.</hi> 31.18.32.16. <hi>Iohn</hi> 5.39. <hi>Rom.</hi> 3.2.</p>
+            <p>Errour of <hi>J. G.</hi>
+               <list>
+                  <item>1 That no writing whatſoever, whether Tranſ<g ref="char:EOLhyphen"/>lation or Originalls, are the foundation of Chriſtian Religion. <hi>Ioh.</hi> 5 46, 47.</item>
+                  <item>2 To believe the Scriptures in Engliſh to bee Gods Word, is no foundation of Chriſtian Religion, Confuta. <hi>Acts</hi> 18.28.</item>
+               </list>
+            </p>
+            <p>Errour of <hi>Iohn Bidle.</hi>
+               <list>
+                  <item>1 To take God otherwiſe then perſonally, is to miſtake him. Confut. <hi>Deut.</hi> 6.4. <hi>Eſa.</hi> 45.6.</item>
+                  <item>2 To diſtinguiſh between Eſſence and Perſon in God, is a wicked diſtinction. <hi>Heb.</hi> 1.3. <hi>Ioh.</hi> 10.3.</item>
+                  <item>3 That the Holy Ghoſt is a created Spirit among the Angels, and no more omnipreſent then the devill, and worſhipping the Holy Ghoſt is not allowed in Gods word. <hi>Ioh.</hi> 3.5. <hi>Acts</hi> 13.28. <hi>Rom.</hi> 15, 16.</item>
+               </list>
+            </p>
+            <p>Errour in Divine light in the booke of <hi>Comfort for Believers.</hi>
+               <list>
+                  <item>1 That the Father and the Spirit ſuffered in the Son. Confu. <hi>Iohn</hi> 1.14.3.16. That more then the Elect ſhall be ſaved. <hi>Acts</hi> 13.48. <hi>Rom.</hi> 11.5.7.</item>
+                  <item>2 That God hath more hand in mens ſinfulneſſe then they them<g ref="char:EOLhyphen"/>ſelves, and is the authour of his peoples ſinfulneſſe. <hi>Pſal.</hi> 5.4. <hi>Hab.</hi> 1.13. <hi>Heb.</hi> 10.30.38.</item>
+               </list>
+            </p>
+            <p>Errour of <hi>Paul Beſt,</hi> cited in <hi>Lond. Test.</hi>
+               <list>
+                  <item>1 That God the Father is God eſſentially, the Son viſentiall; and</item>
+                  <item>2 The Holy Ghoſt potenti<g ref="char:EOLhyphen"/>ally.
+<pb n="4" facs="tcp:162029:4"/>Confut. <hi>Acts</hi> 5.3, 4. <hi>Job</hi> 33.4.</item>
+                  <item>3 That Chriſt is a mighty God, but not Almighty; <hi>John</hi> 4.42. <hi>Matth.</hi> 2.21.</item>
+                  <item>4 That he is not truly and properly God; 2 <hi>Timoth.</hi> 1.10. <hi>Tit.</hi> 2.13.</item>
+                  <item>5 That the better part of Chriſts perſon is man. <hi>Eſa.</hi> 45.21, 22.</item>
+                  <item>6 That to make Chriſt coequal with the Father, is to make a falſe Chriſt.</item>
+               </list>
+            </p>
+            <p>Error, In the fulneſſe of Gods love by <hi>L.S.</hi>
+               <list>
+                  <item>1 That if the love of God be limited to a few, its far from infinite. confut. <hi>Eph.</hi> 2.4. <hi>C.</hi> 3.8.</item>
+                  <item>2 That it is not ſutable to God to pick and chuſe among men to ſhew mercy. <hi>Rom.</hi> 9.20, 21.</item>
+                  <item>3 That the reprobate condition of men and Angells ſhall bee re<g ref="char:EOLhyphen"/>gained. <hi>Confu. Rom.</hi> 9.22. <hi>Matth.</hi> 25.41.</item>
+               </list>
+            </p>
+            <p>Errour, in mans mortality, written by <hi>R. O. Cit.</hi> in <hi>Lond. Teſt.</hi>
+            </p>
+            <list>
+               <item>1 That the ſoule of Chriſt was in the Grave. <hi>Mat.</hi> 27.50. <hi>Acts</hi> 13.29.</item>
+               <item>2 That Chriſt aſcended into the Son. <hi>Heb.</hi> 1.3. 1 <hi>Pet.</hi> 3.22.</item>
+               <item>3 That whole man is a compound wholly mortall; <hi>Gen.</hi> 2.7. <hi>Mat.</hi> 10.28.</item>
+               <item>4 That the going of the ſoule into Hell is a meer fiction. <hi>Confutat. Matth.</hi> 22.32. 2 <hi>Cor.</hi> 5.4.</item>
+               <item>5. That the ſoule is mortall, and ſleeps with the body.</item>
+            </list>
+            <p>Errour of <hi>P. Hobſon, Cit.</hi> in <hi>Lond. Teſtim.</hi>
+               <list>
+                  <item>1 That Chriſt was pur<g ref="char:EOLhyphen"/>chaſed by love. <hi>Confu. Heb.</hi> 2.12.</item>
+                  <item>2 That Chriſt did not purchaſe love for us. 1 <hi>Pet.</hi> 1.18, 19.</item>
+               </list>
+            </p>
+            <p>Errour of <hi>H. Hammond, Cited</hi> in <hi>Londons Teſt.</hi> That Chriſt Jeſus was given to ſatisfie for all the ſinnes of all mankinde. <hi>Confut. Heb.</hi> 2.14. <hi>Philip</hi> 2.8. <hi>Gal.</hi> 3.13.</p>
+            <p>Errour of <hi>J. S. Cited</hi> in <hi>Londons Teſtim.</hi>
+               <list>
+                  <item>1 That the Father is a Sabbath commanded to Chriſtians. <hi>Confuta. John</hi> 20.19.26. <hi>Acts</hi> 20.7.</item>
+                  <item>2 That every day is a Sabbath to Chriſtians.</item>
+                  <item>3 That none ought to give Baptiſm, becauſe they cannot give the Holy Ghoſt with it. <hi>Matth.</hi> 3.11. <hi>John</hi> 1.33. <hi>Acts</hi> 19.4.</item>
+               </list>
+            </p>
+            <p>Errour of M. <hi>Web, Cited</hi> in the <hi>Teſtimony</hi> of <hi>London Min.</hi>
+               <list>
+                  <item>1 That <hi>Johns</hi> Baptiſine ended at <hi>Chriſts; Confutat. Matth.</hi> 3.11.</item>
+                  <item>2 That there muſt be another inſtitution of Baptiſme, or elſe it is of no weight. <hi>Acts</hi> 19.4. <hi>Ioh</hi> 1.33. <hi>Matth.</hi> 28 19.</item>
+               </list>
+            </p>
+            <p>Errour of M. <hi>Bacon</hi> in the <hi>Teſtimony</hi> of <hi>London Miniſters.</hi>
+               <list>
+                  <item>1 That Baptiſme is a ſhadow of Chriſt; and muſt goe out, as the ſubſtance
+<pb n="5" facs="tcp:162029:4"/>comes in. <hi>Confut.</hi> 1 <hi>Pet.</hi> 3.21. <hi>Rom.</hi> 4.11. <hi>Col.</hi> 2.12. <hi>Rom.</hi> 6.4.</item>
+                  <item>2 That the baptiſme of Infants is a great deluſion, and of as dan<g ref="char:EOLhyphen"/>gerous conſequence, as any the man of ſin brought into the world. <hi>Rom.</hi> 11.15, 16, 17. <hi>Marke</hi> 10.14.</item>
+               </list>
+            </p>
+            <p>Errour of <hi>S. Gorton</hi> and <hi>R. Williams.</hi>
+               <list>
+                  <item>1 That it is forſwearing to ſweare at all; <hi>Confut. Ier.</hi> 4.1.2.</item>
+                  <item>2 That it is unlawfull to call a wicked man to ſweare, or pray. <hi>Matth.</hi> 5.39.</item>
+               </list>
+            </p>
+            <p>Errour of <hi>E. Avery, Cited</hi> by the <hi>London Miniſters.</hi> That there is no reſurrection of the naturall body, but onely myſticall. That the bodies of fleſh belonging to the Saints ſhall be annihilated, and that the ſoul is God. That hell is a non-entity. That no ſoules are yet in hell. That all torments of men and devills are yet to come, that Beaſts ſhall riſe againe. That divells ſhall bee tormented in the bo<g ref="char:EOLhyphen"/>dies of the wicked. <hi>Confutat. Iohn</hi> 5.29. <hi>Iob</hi> 19.25, 26, 27. 1 <hi>Cor.</hi> 15.12.13. 1 <hi>Iohn</hi> 3.2. <hi>Col.</hi> 3.4. <hi>Matth.</hi> 25.4.1. <hi>Iude</hi> 6.</p>
+         </div>
+         <div type="part">
+            <head>Theſe following are ſo groſſe, they need no further Confutation.</head>
+            <p>Errour of M. <hi>Rand.</hi> and M. <hi>Iohn Simpſon.</hi> That the morall Law is of no uſe at all to a believer, no rule for him to walke by; Nor to ex<g ref="char:EOLhyphen"/>amine his life by, and that Chriſtians are free from the mandatory power of it.</p>
+            <p>Errour of M. <hi>Iohn Eaton</hi> in <hi>The hony combe.</hi> That the Law and Chriſt are two contrary things, one cannot abide the other. By the Believers are nurtered for heaven, and God fits them for ſervice <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the world by leading them into ſins.</p>
+            <p>Another groſſe Errour is this, by M. <hi>Randall.</hi> That he that be<g ref="char:EOLhyphen"/>lieveth that Chriſt hath taken away his ſinnes, is as free without ſin as Chriſt. That it is as poſſible for Chriſt to ſin as for a childe of God to ſin. That a childe of God need not, nay ought not to aske pardon for his ſin; and that it is no leſſe then blaſphemy for him, ſo to doe, delivered and maintained by him.</p>
+            <p>Errour of D. <hi>Criſpe</hi> in his Sermons. That every elect perſon from the firſt inſtant of his beeing, is as pure in the eyes of God, as hee
+<pb n="6" facs="tcp:162029:5"/>ſhall be in glory, no more ſin is reckoned to him now, then in hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>That the Lord hath not one ſin to charge on any elect perſon, from their firſt conception, not ſo much as originall ſin to bee laid on him, though he be in the height of iniquity, and exceſſe of riot, committing all abominations, God hath no more to lay to the charge of ſuch a perſon then to a Saint Triumphant in glory.</p>
+            <p>M. <hi>Simpſons</hi> Errour. That if a man by the Spirit know himſelf in the ſtate of Grace, though he be drunke or commit adultery, God ſees no ſin in him, witneſſe Mr. <hi>Gattaker.</hi> That God doth not chaſtiſe any of his people for ſinne, nor puniſh the land for the ſinne of his people.</p>
+            <p>In the aſſertion of Grace by <hi>Rob. Towne.</hi> That as well our workes as perſons are perfectly holy and good.</p>
+            <p>
+               <hi>N. Coulin</hi> an Officer in the Army. That a Saint in this life, with<g ref="char:EOLhyphen"/>out any addition hereafter is perfectly juſt, perfectly holy, and compleatly glorious in this life, and not capable of any addition after death.</p>
+            <p>M. <hi>Saltmarſh</hi> in the Smoake of the Temple. That the fulneſſe of time is not yet come for Ordinances, there is no Church, no Ordi<g ref="char:EOLhyphen"/>nance yet. They are to begin with gifts and miracles, as in the A<g ref="char:EOLhyphen"/>poſtolicke times.</p>
+            <p>In the booke called, <hi>Little Nonſuch,</hi> concerning Marriage. The very next of kin may joyne in Marriage by cuſtome and command, for <hi>Sarah</hi> was <hi>Abrahams</hi> ſiſter whom he tooke to wife.</p>
+            <p>In the doctrine of divorce by <hi>Iohn Milton.</hi> That unfitneſſe or contrariety of minde betwixt man and wife, from a naturall cauſe which hindereth ſolace and peace are a great reaſon of divorce.</p>
+            <p>
+               <hi>Errours concerning generall Toleration, and Liberty of conſcience in The bloody Tenent, by</hi> Williams.</p>
+            <p>That Liberty be granted for every man to worſhip God in that manner as ſhall appeare to them moſt agreeable to Gods word, and no man puniſhed, and that no detriment can come to the Church or State by the toleration of Religion, and why may not Papiſts bee permitted.</p>
+            <p>That it is the will and command of God, ſince the comming of Chriſt, a permiſſion of the moſt Jewiſh, Turkiſh, or Antechriſtian
+<pb n="7" facs="tcp:162029:5"/>conſciences and worſhips be granted to all men in all Nations and Countries.</p>
+            <p>By this it appeares what damnable and dangerous errours and blaſphemies are ſprung up amongſt us, we have great need to take our Saviours counſell in <hi>Matth.</hi> 7.15. to beware of falſe Prophets, <hi>v.</hi> the 16. <hi>By their fruits yee ſhall know them,</hi> 2 Pet. 2.1. <hi>There ſhall be falſe Prophets who privily ſhall bring in damnable hereſies.</hi>
+            </p>
+            <p>For a concluſion and caution againſt errours, read 2 <hi>Tim.</hi> the whole third Chapter.</p>
+            <list>
+               <head>Verſ.</head>
+               <item>
+                  <q>
+                     <bibl>1 </bibl>
+                     <hi>This know alſo, that in the laſt dayes perillous times ſhall come.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>2 </bibl>
+                  <q>
+                     <hi>For men ſhall be lovers of their owne ſelves, covetous, boaſters, proud, blaſphemers, diſobedient to parents, unthankfull, unholy,</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>3 </bibl>
+                  <q>
+                     <hi>Without naturall affection, truce-breakers, falſe accuſers, incontinent, fierce, deſpiſers of thoſe that are good,</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>4 </bibl>
+                  <q>
+                     <hi>Traytors, heady, high-minded, lovers of pleaſures, more then lovers of God,</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>5 </bibl>
+                  <q>
+                     <hi>Having a forme of godlineſſe, but denying the power thereof: from ſuch turne away.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>6 </bibl>
+                  <q>
+                     <hi>For of this ſort are they which creep into houſes, and lead captive ſilly wo<g ref="char:EOLhyphen"/>men laden with ſins, led away with divers luſts,</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>7 </bibl>
+                  <q>
+                     <hi>Ever learning, and never able to come to the knowledge of the truth.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>8 </bibl>
+                  <q>
+                     <hi>Now as Jannes and Jambres withſtood Moſes: ſo doe theſe alſo reſiſt the truth: men of corrupt mindes, reprobate concerning the faith.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>9 </bibl>
+                  <q>
+                     <hi>But they ſhall proceed no further: for their folly ſhall be manifeſt to all men as theirs alſo was.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>10 </bibl>
+                  <q>
+                     <hi>But thou haſt fully knowne my doctrine, manner of life, purpoſe, faith, long-ſuffering, charity, patience,</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>11 </bibl>
+                  <q>
+                     <hi>Perſecutions, afflictions, which came unto me at Antioch, at Iconium, at Lyſtra, what perſecutions I endured: but out of them all, the Lord delivered me.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>12 </bibl>
+                  <q>
+                     <hi>Yea, and all that will live godly in Chriſt Jeſus ſhall ſuffer perſecution.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>13 </bibl>
+                  <q>
+                     <hi>But evill men, and ſeducers ſhall waxe worſe and worſe, deceiving, and being deceived.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>14 </bibl>
+                  <q>
+                     <hi>But continue thou in the things which thou haſt learned, and haſt beene aſſured of, knowing of whom thou haft learned them.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>15 </bibl>
+                  <q>
+                     <hi>And that from a childe thou haſt knowne the holy Scriptures, which are able to make thee wiſe unto ſalvation, through faith which is in Chriſt Jeſus.</hi>
+                  </q>
+               </item>
+               <item>
+                  <bibl>16 </bibl>
+                  <q>
+                     <hi>All Scripture is given by inſpiration of God, and is profitable for do<g ref="char:EOLhyphen"/>ctrine, for reproofe, for correction, for inſtruction in righteouſneſſe,</hi>
+                  </q>
+               </item>
+               <pb n="8" facs="tcp:162029:6"/>
+               <item>
+                  <bibl>17 </bibl>
+                  <q>
+                     <hi>That the man of God may be perfect, thorowly furniſhed unto all good workes.</hi>
+                  </q>
+               </item>
+            </list>
+            <p>Looke in the <bibl>2 <hi>Cor.</hi> 11.3.</bibl> 
+               <q>
+                  <hi>But I feare leſt by any meanes, as the ſerpent beguiled</hi> Eve <hi>through his ſubtilty, ſo your mindes ſhould be corrupted from the ſimplicity that is in Christ.</hi>
+               </q>
+            </p>
+            <q>
+               <p>
+                  <bibl>2 <hi>Iohn</hi> 8.9, 10.</bibl> 
+                  <hi>Looke to your ſelves that we loſe not thoſe things which wee have wrought, but that we receive a full reward.</hi>
+               </p>
+               <p>
+                  <bibl>9</bibl> 
+                  <hi>Whoſoever tranſgreſſeth, and abideth not in the doctrine of Chriſt, hath not God: he that abideth in the doctrine of Chriſt, he hath both the Father and the Sonne.</hi>
+               </p>
+               <p>
+                  <bibl>10</bibl> 
+                  <hi>If there come any unto you, and bring not this doctrine, receive him not into your houſe, neither bid him God ſpeed.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Matth.</hi> 7.17.</bibl> 
+               <hi>Ye ſhall know them by their fruits: Doe men gather grapes of thornes or figs of thiſtles?</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iohn</hi> 7.17.</bibl> 
+               <hi>If any man will doe his will, he ſhall know of the doctrine, whether it be of God, or whether I ſpeake of my ſelfe.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov.</hi> 14.12.</bibl> 
+               <hi>There is a way which ſeemeth right unto a man: but the end thereof are the wayes of death.</hi>
+            </q>
+            <p>All the words of Scripture in confutation of them, could not be contained at length in this briefe Catalogue, if you turne to them you ſhall finde them pertinent, as a true touchſtone diſtinguiſhing gold from droſſe.</p>
+            <p>Let this ſerve for a warning peece to wiſe Chriſtians, to take heed leſt they be corrupted with theſe notorious Errours of the times, and ſo fall from their owne ſtedfaſtneſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
